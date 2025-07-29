@@ -85,5 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "smao": {
+      "api": "https://caiji.semaozy.net/inc/api.php",
+      "name": "色猫咪资源"
+      "detail": "https://semaozy8.com/"
+    }
   }
 }
