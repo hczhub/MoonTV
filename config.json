@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     }
     "smao": {
-      "api": "https://caiji.semaozy.net/inc/api.php",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
       "name": "色猫咪资源"
       "detail": "https://semaozy8.com/"
     }
